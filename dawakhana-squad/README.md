@@ -10,7 +10,7 @@ The main aim of this app is to provide transparency betweeen the hospitals and t
 Clone the source locally
 
 ```sh
-$ git clone https://github.com/dawakhana-squad/aasupatri.git
+$ git clone https://github.com/mokshithpyla/HospitalFinder.git
 $ cd dawakhana-squad/aasupatri
 ```
 ### Requirements:
