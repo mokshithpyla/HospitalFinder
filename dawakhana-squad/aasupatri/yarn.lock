@@ -2517,6 +2517,11 @@ gauge@~2.7.3:
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
 
+geolib@^2.0.24:
+  version "2.0.24"
+  resolved "https://registry.yarnpkg.com/geolib/-/geolib-2.0.24.tgz#eb3d7fbc65f5ea3354a5af6054563ebe9f33e5f4"
+  integrity sha512-NR0AyYyEnGrFS9JvSFmmotQDxVCORJgDHdvBwSatxl5aHarOLMh3KuGI83bCvCfObjfoEiDe8Ung8GGLGAtthw==
+
 get-caller-file@^1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-1.0.3.tgz#f978fa4c90d1dfe7ff2d6beda2a515e713bdcf4a"
@@ -5215,6 +5220,11 @@ react-native-safe-area-view@^0.12.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.22.tgz#7a120377b52aa9bbb94d0b8541a014026be9289b"
   integrity sha512-kSyAt0AeVU6N7ZonfV6dP6iZF8B7Bce+tk3eujXhzBGsLg0VSLnU7uE9VqJF0xdQrHR91ZjGgVMieo/8df9KTA==
 
+react-native-send-intent@^1.0.30:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/react-native-send-intent/-/react-native-send-intent-1.2.3.tgz#76ad08bb1d0c0e175735ab2bb77890774c785d8a"
+  integrity sha512-77Pv0ZEMsEQT/0N0fbvfQtO0Pqc1sgY1MyCHqPmGNZ1upICoHnxBNZ77QvDraWloTlw22coEZikzARcCZmmcVA==
+
 react-native-simple-radio-button@^2.7.3:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/react-native-simple-radio-button/-/react-native-simple-radio-button-2.7.3.tgz#c7227c0f963d6bbcfa245255d18a5a8b98fde41f"
@@ -5231,6 +5241,13 @@ react-native-status-bar-height@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/react-native-status-bar-height/-/react-native-status-bar-height-2.2.0.tgz#3bd51de134660efc5f5ad136ca573c7d5790f7ed"
   integrity sha512-4WJpyZirzeMHyZiyNEy4LnSPOtuLRVy3+28Rhz7ffrjCVcc5RFcC0HVjFnkwfuhcTyXIDtzPG6canJkXzbTtBA==
+
+react-native-svg-image@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-svg-image/-/react-native-svg-image-2.0.1.tgz#4737aca1115c3011847ee178e7249e12fe7eec55"
+  integrity sha1-RzesoRFcMBGEfuF45ySeEv5+7FU=
+  dependencies:
+    prop-types "^15.6.0"
 
 react-native-svg@^9.2.4:
   version "9.2.4"
@@ -6668,9 +6685,9 @@ xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.0, y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0":
   version "4.0.0"
