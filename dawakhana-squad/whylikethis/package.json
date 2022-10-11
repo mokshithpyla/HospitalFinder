@@ -10,7 +10,7 @@
     "@babel/runtime": "^7.3.1",
     "firebase": "^5.8.3",
     "react": "16.6.3",
-    "react-native": "0.58.5"
+    "react-native": "0.70.2"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
