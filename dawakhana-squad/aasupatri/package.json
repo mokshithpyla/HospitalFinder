@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "firebase": "^5.8.4",
     "geolib": "^2.0.24",
     "mysql": "^2.16.0",
